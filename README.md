@@ -256,7 +256,7 @@ Os testes cobrem as camadas de serviço e controle, garantindo a integridade das
 ## 🔗 Frontend
 
 O frontend deste projeto está disponível no repositório GitHub:  
-[https://github.com/seu-usuario/seu-frontend-repositorio](https://github.com/seu-usuario/seu-frontend-repositorio)
+[https://github.com/seu-usuario/seu-frontend-repositorio](https://github.com/EllenCassia/order-management-frontend.git)
 
 ## 🛠️ Solução de Problemas
 
